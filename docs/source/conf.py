@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = '无穹智图云平台'
 copyright = '2021, Graziella'
-author = 'Graziella'
+author = 'Joy'
 
 release = '0.1'
 version = '0.1.0'
