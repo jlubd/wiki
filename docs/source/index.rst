@@ -8,6 +8,7 @@
 
 .. toctree::
 
-   一、软件概述
-   二、运行环境
-   三、使用方法
+   usage
+   api
+   api
+   usage
