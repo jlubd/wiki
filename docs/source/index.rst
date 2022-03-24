@@ -8,7 +8,7 @@
 
 .. toctree::
 
-   usage
+   docs/intro
    api
    api
    usage
