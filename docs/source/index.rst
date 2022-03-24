@@ -7,6 +7,7 @@
 --------
 
 .. toctree::
+   :maxdepth: 2
 
    docs/intro
    docs/env
