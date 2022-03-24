@@ -9,6 +9,5 @@
 .. toctree::
 
    docs/intro
-   api
-   api
-   usage
+   docs/env
+   docs/guide
