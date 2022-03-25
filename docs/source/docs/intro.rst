@@ -7,6 +7,6 @@
 
 通过地理位置信息(GIS) 迭加Mesh Model 迭加 BIM 模型，帮助用户更快更完整的了解项目建设结果。
 
-.. image:: media\one002.png
+.. image:: imgs/image.png
    :width: 4.09375in
    :height: 3.89583in
